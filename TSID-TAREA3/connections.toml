@@ -1,8 +1,0 @@
-[default]
-account = "WLB40068"
-user = "apowopa"
-role = "DESAROLLADOR"
-password = "Snowflake-891@"
-warehouse = "SNOWFLAKE_LEARNING_WH"
-database = "INFO_EMPLEADOS"
-schema = "PUBLIC"
